@@ -7,3 +7,10 @@ This repository implements a text classification system that uses three differen
 - **TF-IDF with ExtraTreesClassifier**
 - **Word2Vec with LinearSVC**
 - **FastText with SVC**
+
+## Model Performance
+Here are the accuracy results for each model:
+
+- **TF-IDF with ExtraTreesClassifier**: Accuracy: **0.84**
+- **Word2Vec with LinearSVC**: Accuracy: **0.81**
+- **FastText with SVC**: Accuracy: **0.83**
