@@ -14,3 +14,7 @@ Here are the accuracy results for each model:
 - **TF-IDF with ExtraTreesClassifier**: Accuracy: **0.84**
 - **Word2Vec with LinearSVC**: Accuracy: **0.81**
 - **FastText with SVC**: Accuracy: **0.83**
+
+### Dataset
+
+This project uses the **Arabic Reviews** dataset from Kaggle, sourced from the user **ahmedmoabbas**. The dataset consists of Arabic reviews that are utilized to train and test the sentiment analysis models. You can find more details about the dataset on [Kaggle](https://www.kaggle.com).
